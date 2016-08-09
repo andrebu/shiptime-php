@@ -3,3 +3,4 @@
 
 This plugin can help increase conversion rates on your store by increasing impulse buys to get an order in for same day shipping.
 
+More to come!
